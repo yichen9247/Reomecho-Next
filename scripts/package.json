@@ -1,0 +1,19 @@
+{
+    "name": "reomecho-next-build",
+    "version": "1.1.0",
+    "description": "让写作回归写作，基于Vite + SpringBoot的高性能博客框架。",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "yichen9247",
+    "license": "ISC",
+    "dependencies": {
+        "figlet": "^1.7.0",
+        "fs-extra": "^11.2.0",
+        "rss": "^1.2.2"
+    },
+    "devDependencies": {
+        "html-minifier": "^4.0.0"
+    }
+}
